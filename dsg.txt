@@ -1,0 +1,21 @@
+saipr@DESKTOP-JH0RFO3 MINGW64 /d/rayufu (master)
+$ git remote add origin https://github.com/saipreetham9999/rayudu-learn.git
+error: remote origin already exists.
+
+saipr@DESKTOP-JH0RFO3 MINGW64 /d/rayufu (master)
+$ git remote -v
+origin  https://github.com/rayudu1018/ray2.git (fetch)
+origin  https://github.com/rayudu1018/ray2.git (push)
+
+saipr@DESKTOP-JH0RFO3 MINGW64 /d/rayufu (master)
+saipr@DESKTOP-JH0RFO3 MINGW64 /d/rayufu (master)
+$ git remote add origin https://github.com/saipreetham9999/rayudu-learn.git
+error: remote origin already exists.
+
+saipr@DESKTOP-JH0RFO3 MINGW64 /d/rayufu (master)
+$ git remote -v
+origin  https://github.com/rayudu1018/ray2.git (fetch)
+origin  https://github.com/rayudu1018/ray2.git (push)
+
+saipr@DESKTOP-JH0RFO3 MINGW64 /d/rayufu (master)
+
